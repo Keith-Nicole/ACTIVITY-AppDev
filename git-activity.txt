@@ -1,1 +1,3 @@
 This is my first Git activity.
+
+Added context: I am actually finding this activity fun. 
